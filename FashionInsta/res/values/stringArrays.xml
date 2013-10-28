@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="friendArray">
+        <item>List of Friends</item>
+        <item>Rhonda</item>
+        <item>Ong Li</item>
+        <item>Yesser</item>
+        <item>Alan</item>
+        <item>Brian</item>
+        <item>Catherine</item>
+        <item>Darren</item>
+        <item>Enrique</item>
+        <item>Florence</item>
+        <item>Greta</item>
+        <item>Howard</item>
+        <item>Indinna</item>
+        <item>Johnny</item>
+        <item>Karl</item>
+        <item>Leon</item>
+        <item>Moniqu</item>
+        <item>Naria</item>
+        <item>Otto</item>
+        <item>Placebo</item>
+    </string-array>
+
+</resources>
